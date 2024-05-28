@@ -1,0 +1,6 @@
+E:\Las Nieves\Stock\Negocio\bin\Debug\Negocio.dll
+E:\Las Nieves\Stock\Negocio\bin\Debug\Negocio.pdb
+E:\Las Nieves\Stock\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Las Nieves\Stock\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Las Nieves\Stock\Negocio\obj\Debug\Negocio.dll
+E:\Las Nieves\Stock\Negocio\obj\Debug\Negocio.pdb

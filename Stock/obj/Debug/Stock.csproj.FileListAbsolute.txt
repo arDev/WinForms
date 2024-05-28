@@ -1,0 +1,13 @@
+E:\Las Nieves\Stock\Stock\bin\Debug\Stock.exe.config
+E:\Las Nieves\Stock\Stock\bin\Debug\Stock.exe
+E:\Las Nieves\Stock\Stock\bin\Debug\Stock.pdb
+E:\Las Nieves\Stock\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+E:\Las Nieves\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+E:\Las Nieves\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+E:\Las Nieves\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+E:\Las Nieves\Stock\Stock\obj\Debug\Stock.exe
+E:\Las Nieves\Stock\Stock\obj\Debug\Stock.pdb
+E:\Las Nieves\Stock\Stock\obj\Debug\Stock.FrmPrincipal.resources
+E:\Las Nieves\Stock\Stock\bin\Debug\Negocio.dll
+E:\Las Nieves\Stock\Stock\bin\Debug\Negocio.pdb
+E:\Las Nieves\Stock\Stock\obj\Debug\Stock.csproj.CopyComplete
