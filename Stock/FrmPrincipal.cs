@@ -20,7 +20,7 @@ namespace Stock
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            txtEstado.Text = "";
+            txtEstado.Text = "...........";
         }
 
         private void btnSaludar_Click(object sender, EventArgs e)
